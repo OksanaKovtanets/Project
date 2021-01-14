@@ -1,3 +1,2 @@
 "use strict";
-const category = "toys";
-console.log(`https://someurl.com/${category}/5`);
+let numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?","");
